@@ -1,5 +1,0 @@
-C:\Users\LHUser\Downloads\blog-vdnghia-main\songtheblog2\obj\Debug\net6.0\songtheblog2.csproj.AssemblyReference.cache
-C:\Users\LHUser\Downloads\blog-vdnghia-main\songtheblog2\obj\Debug\net6.0\songtheblog2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LHUser\Downloads\blog-vdnghia-main\songtheblog2\obj\Debug\net6.0\songtheblog2.AssemblyInfoInputs.cache
-C:\Users\LHUser\Downloads\blog-vdnghia-main\songtheblog2\obj\Debug\net6.0\songtheblog2.AssemblyInfo.cs
-C:\Users\LHUser\Downloads\blog-vdnghia-main\songtheblog2\obj\Debug\net6.0\songtheblog2.csproj.CoreCompileInputs.cache
