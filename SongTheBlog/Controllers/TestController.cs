@@ -4,9 +4,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using NghiaVoBlog.Data;
+using SongTheBlog.Data;
 
-namespace NghiaVoBlog.Controllers
+namespace SongTheBlog.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

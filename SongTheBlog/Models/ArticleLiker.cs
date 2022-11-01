@@ -1,4 +1,4 @@
-namespace NghiaVoBlog.Models
+namespace SongTheBlog.Models
 {
     public class ArticleLiker
     {

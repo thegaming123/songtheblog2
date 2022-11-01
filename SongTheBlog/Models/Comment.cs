@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NghiaVoBlog.Models
+namespace SongTheBlog.Models
 {
     public class Comment : BaseEntity
     {

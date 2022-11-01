@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace NghiaVoBlog.Migrations
+namespace SongTheBlog.Migrations
 {
     public partial class Migra : Migration
     {

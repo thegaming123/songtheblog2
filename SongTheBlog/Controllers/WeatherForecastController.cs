@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace NghiaVoBlog.Controllers;
+namespace SongTheBlog.Controllers;
 
 [ApiController]
 [Route("[controller]")]

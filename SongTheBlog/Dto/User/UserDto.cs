@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace NghiaVoBlog.Dto.User
+namespace SongTheBlog.Dto.User
 {
     public class UserDto
     {

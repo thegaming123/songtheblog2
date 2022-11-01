@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using NghiaVoBlog.Models;
+using SongTheBlog.Models;
 
-namespace NghiaVoBlog.Data
+namespace SongTheBlog.Data
 {
     public class AppDBContext : DbContext
     {

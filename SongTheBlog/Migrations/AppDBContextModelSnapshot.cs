@@ -8,7 +8,7 @@ using NghiaVoBlog.Data;
 
 #nullable disable
 
-namespace NghiaVoBlog.Migrations
+namespace SongTheBlog.Migrations
 {
     [DbContext(typeof(AppDBContext))]
     partial class AppDBContextModelSnapshot : ModelSnapshot
