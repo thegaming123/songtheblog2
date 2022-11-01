@@ -32,7 +32,7 @@ namespace NghiaVoBlog.Repository
                 Phone =user.Phone,
                 Address =user.Address,
                 DateOfBirth = user.DateOfBirth
-            }).AsNoTracking().ToListAs
+            }).AsNoTracking().ToListAsync();
         }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
     }
 }

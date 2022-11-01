@@ -1,7 +1,7 @@
 # blog-vdnghia
 
 Download Git-SCM | https://git-scm.com/
-git clone  |https://github.com/VDNghia2512/blog-vdnghia
+git clone  |https://github.com/thegaming123/songtheblog2.git
 [dotnet]
 
 dotnet tool install --global dotnet-ef

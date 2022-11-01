@@ -36,5 +36,26 @@ namespace NghiaVoBlog.Controllers
                 return BadRequest(ModelState.ErrorCount);
             }
         }
+        [HttpPut]
+        public IActionResult PutUser(CreateUserDto CreateUserDto){
+            if (ModelState.IsValid)
+            {
+            var user = new User()
+                {
+                    DisplayName =CreateUserDto.DisplayName,
+                    Email =CreateUserDto.Email,
+                    Phone =CreateUserDto.Phone,
+                    Address =CreateUserDto.Address,
+                    DateOfBirth = CreateUserDto.DateOfBirth
+                };
+                var createUser = _userRepository.InsertUser(user);
+            return Ok(createUser);
+
+            }
+            else{
+                return BadRequest(ModelState.ErrorCount);
+            }
+        }
+        
     }
 }
