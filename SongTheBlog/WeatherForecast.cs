@@ -1,4 +1,4 @@
-namespace NghiaVoBlog;
+namespace SongTheBlog;
 
 public class WeatherForecast
 {

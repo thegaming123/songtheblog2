@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using NghiaVoBlog.Data;
-using NghiaVoBlog.Repository;
+using SongTheBlog.Data;
+using SongTheBlog.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
